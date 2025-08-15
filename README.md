@@ -61,7 +61,7 @@ You can deploy this on Streamlit Cloud:
 
 Push the repo to GitHub
 
-Go to https://share.streamlit.io
+Go to https://vahan-investor-dashboard-36nukfjeemqs4k4c66sul5.streamlit.app/
 
 Link your repo and set src/app.py as the main file
 
